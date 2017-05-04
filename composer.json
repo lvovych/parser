@@ -1,0 +1,16 @@
+{
+  "name": "lvovych/parser",
+  "description": "kablex.net.ua parser",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yaroslav Lvovych",
+      "email": "ya@lvovych.com"
+    }
+  ],
+  "require": {
+    "me578022/simplehtmldom": "v1.11",
+    "phpoffice/phpexcel": "1.8.1"
+  }
+}
